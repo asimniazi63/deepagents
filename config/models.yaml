@@ -1,0 +1,122 @@
+# Model Configuration for Deep Research Agents
+# This file controls all LLM model settings for each node/operation in the workflow
+# 
+# Benefits:
+# - Centralized model configuration
+# - Easy A/B testing (change one line to switch models)
+# - Per-operation tuning (different temperature/tokens for different tasks)
+#
+# Supported Providers: openai, anthropic
+# Note: API keys are stored in .env file
+#
+# Timeout Configuration:
+# - All timeout values are in SECONDS
+# - OpenAI operations: Handled by global AsyncOpenAI client (set_default_openai_client)
+# - Claude operations: Handled by individual Anthropic client per request
+# - Retries: Automatic exponential backoff for transient failures
+
+# =============================================================================
+# WORKFLOW CONTROL
+# =============================================================================
+
+workflow:
+  max_search_depth: 5
+  max_queries_per_depth: 5
+  max_concurrent_searches: 5
+  stagnation_check_iterations: 2
+
+# =============================================================================
+# LOGGING & OBSERVABILITY
+# =============================================================================
+
+logging:
+  level: INFO
+  log_dir: logs
+  reports_dir: reports
+  debug: false
+
+
+# =============================================================================
+# GLOBAL OPENAI CLIENT CONFIGURATION
+# =============================================================================
+# All OpenAI operations (web_search, synthesis, entity_merge, graph_merge, 
+# connection_mapping) use a single global AsyncOpenAI client configured with
+# these settings via set_default_openai_client() in settings.py
+
+openai_defaults:
+  timeout: 300  # seconds (5 minutes) - applies to ALL OpenAI operations
+  max_retries: 3  # Automatic retries with exponential backoff - applies to ALL
+  connect_timeout: 60  # seconds - max time to establish connection
+  write_timeout: 30  # seconds - max time for sending request
+
+# =============================================================================
+# AGENT WORKFLOW NODES
+# =============================================================================
+
+# Query Generation Node
+# Uses Claude for intelligent query generation and refinement
+query_generation:
+  provider: anthropic
+  model: claude-sonnet-4-5-20250929 # use model that supports structured output
+  temperature: 0.3  # Moderate creativity for diverse queries
+  max_tokens: 1024
+  max_retries: 2
+  timeout: 120  # seconds (2 minutes)
+  description: "Generates initial and refined search queries based on reflection analysis"
+
+# Analysis/Reflection Node
+# Uses Claude for comprehensive analysis and reflection
+analysis:
+  provider: anthropic
+  model: claude-sonnet-4-5-20250929 # use model that supports structured output
+  temperature: 0.1  # Low temperature for accurate analysis
+  max_tokens: 16384
+  max_retries: 2
+  timeout: 600
+  description: "Analyzes search results, extracts entities, identifies red flags"
+
+# Web Search Node
+# Uses OpenAI with web search tool for real-time information gathering
+web_search:
+  provider: openai
+  model: gpt-4o-mini
+  verbosity: medium  # Options: low, medium, high
+  context_size: medium  # Web search context: low, medium, high
+  external_access: true  # Allow live web access
+  description: "Executes web searches with structured output"
+
+# Synthesis Node
+# Uses OpenAI for final report generation
+synthesis:
+  provider: openai
+  model: gpt-4o-mini
+  verbosity: medium
+  description: "Synthesizes final comprehensive due diligence report"
+
+# =============================================================================
+# UTILITY OPERATIONS
+# =============================================================================
+
+# Entity Extraction and Merging
+# Uses OpenAI for entity extraction from text and deduplication
+entity_merge:
+  provider: openai
+  model: gpt-4o-mini
+  verbosity: medium
+  description: "Extracts entities from analysis text and merges with existing entities"
+
+# Graph Construction and Merging
+# Uses OpenAI for entity relationship graph construction
+graph_merge:
+  provider: openai
+  model: gpt-4o-mini
+  verbosity: medium
+  description: "Merges new graph nodes/edges with existing graph structure"
+
+# Entity Connection Mapping
+# Uses OpenAI for mapping relationships between entities
+connection_mapping:
+  provider: openai
+  model: gpt-4o-mini
+  verbosity: medium
+  description: "Maps connections and relationships between discovered entities"

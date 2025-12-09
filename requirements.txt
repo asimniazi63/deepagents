@@ -1,0 +1,42 @@
+# Deep Research Agent - Dependencies
+
+# Core Framework
+langchain
+langgraph
+langchain-openai
+langchain-anthropic
+
+# AI/LLM SDKs
+openai
+anthropic
+
+# Data Validation & Models
+pydantic
+pydantic-settings
+
+# Graph Processing
+networkx
+
+# Observability & Logging
+langfuse
+structlog
+
+# HTTP & Async
+httpx
+aiohttp
+
+# Rate Limiting & Retry
+tenacity
+
+# Testing
+pytest
+pytest-asyncio
+pytest-mock
+
+# Utilities
+python-dotenv
+
+# PDF Generation
+reportlab
+pypdf
+
