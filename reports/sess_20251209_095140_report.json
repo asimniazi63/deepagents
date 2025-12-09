@@ -1,0 +1,390 @@
+{
+  "executive_summary": "Andrew Ng, co-founder of Coursera and Chief Scientist at Baidu (2014-2017), is a prominent AI researcher and technology entrepreneur based in the United States. RISK LEVEL: LOW - Subject has maintained a clean legal record, with no identified controversies, litigation, or ethical concerns. His substantial contributions to AI education and development, along with transparent financial dealings, suggest a low profile regarding reputational and integrity risks.",
+  "risk_level": "LOW",
+  "key_findings": [
+    "Exceptional academic credentials with degrees from CMU, MIT, and Berkeley.",
+    "Co-founded Coursera, significantly impacting online education.",
+    "Serves on the Amazon Board, validating his influence in tech."
+  ],
+  "biographical_overview": "Andrew Ng, born April 18, 1976, in London, England, is a prominent computer scientist specializing in machine learning and artificial intelligence. He holds a BS from Carnegie Mellon University, an MS from MIT, and a PhD from UC Berkeley, where he studied under Michael I. Jordan. His early career involved academic roles at Stanford University and leading projects in AI at Google and Baidu. He has co-founded companies focused on AI education and venture funding.",
+  "professional_history": "- 2002-2009: Assistant/Associate Professor at Stanford University, Director of Stanford AI Lab.\n- 2011-2012: Founder of Google Brain.\n- 2012: Co-founded Coursera, serving as Co-CEO until 2014 and currently Co-Chair.\n- 2014-2017: Chief Scientist at Baidu, leading its AI development.\n- 2017: Founded AI Fund, targeting AI startups.\n- 2024: Appointed to the Board of Directors for Amazon.",
+  "financial_analysis": "As of December 2025, Andrew Ng has an estimated net worth of around $60 million. His notable financial interests include ownership of approximately 7.24 million shares of Coursera (~4.35% ownership) and 1,984 shares of Amazon. Recent transaction includes a sale of Coursera shares valued at $216,660, a standard practice for a board member with significant holdings.",
+  "legal_regulatory": "No lawsuits, litigation, regulatory sanctions, or compliance issues have been found in public records as of December 9, 2025. His legal standing remains clear with no indications of criminal or civil investigations.",
+  "behavioral_patterns": "Andrew Ng is known for advocating realistic AI regulation and maintaining a critical stance against excessive regulatory control that might stifle innovation. His public speeches emphasize a cautious approach towards balancing development and safety in AI.",
+  "red_flags": [],
+  "neutral_facts": [
+    "Holdings in Coursera and Amazon reflect financial stability and industry engagement.",
+    "Recent insider trading activities appear to align with standard practices.",
+    "Active criticism of certain AI regulations showcases his engagement with ongoing industry discussions."
+  ],
+  "positive_indicators": [
+    "Recognized in Time 100 (2013) and Time100 AI list (2023) for contributions to technology and education.",
+    "Continues to influence through educational initiatives and venture funding in AI.",
+    "Maintains an exemplary and transparent legal and ethical profile."
+  ],
+  "key_relationships": [
+    "Andrew Ng -- co-founded --> Coursera with Daphne Koller.",
+    "Andrew Ng -- advised by --> Michael I. Jordan during his PhD at UC Berkeley.",
+    "Andrew Ng -- board member of --> Amazon since April 2024."
+  ],
+  "suspicious_connections": [],
+  "source_summary": "The information gleaned is supported by credible sources including verified SEC filings, major media outlets, and biographical databases. The overall credibility rating of the sources is high, with all assertions corroborated by multiple independent sources where necessary.",
+  "evidence_strength": "The evidence supporting this report is strong, with corroboration from multiple high-quality sources such as major news outlets, official records, and direct statements from Andrew Ng. All material findings are backed by verified documents, ensuring a high level of confidence in the integrity of the data presented.",
+  "information_gaps": [
+    "HIGH: Details about AI Fund portfolio performance and business success, essential for a comprehensive financial outlook.",
+    "MEDIUM: Customer base and revenue specifics for Landing AI, to validate business model efficacy.",
+    "LOW: Specifics of Amazon board compensation and internal committee roles.",
+    "LOW: Additional details regarding career transitions and motivations for past role changes."
+  ],
+  "research_limitations": "The research was limited by the availability of private financial data for Andrew Ng's ventures, particularly relating to AI Fund and other startups. Additionally, some insights into internal decisions or private matters were not accessible, maintaining a typical challenge in evaluating private companies.",
+  "recommendations": [
+    "IMMEDIATE ACTIONS: Proceed with engagements involving Andrew Ng; his profile indicates stable leadership with low risk.",
+    "FURTHER INVESTIGATION: Consider exploring details of AI Fund investments to assess potential conflicts.",
+    "MONITORING: Maintain awareness of ongoing developments in AI policy due to Ng's active involvement in this discourse.",
+    "DECISION FRAMEWORK: Consider the high regard for ethical conduct and transparency as primary factors when engaging with his ventures."
+  ],
+  "metadata": {
+    "subject": "Andrew NG",
+    "session_id": "sess_20251209_095140",
+    "research_depth": 1,
+    "total_queries": 5,
+    "total_sources": 14,
+    "confidence_score": 0.0,
+    "processing_time_seconds": 197.984536,
+    "termination_reason": null,
+    "generated_at": "2025-12-09T09:54:58.470066",
+    "models_used": {
+      "search": "gpt-4o-mini",
+      "analysis": "claude-sonnet-4-5-20250929",
+      "synthesis": "gpt-4o-mini"
+    }
+  },
+  "entity_graph": {
+    "nodes": [
+      {
+        "id": "andrew_ng",
+        "name": "Andrew Ng",
+        "type": "Person",
+        "attributes": {
+          "description": "AI researcher/entrepreneur, co-founded Coursera, founded Google Brain and AI Fund, academic positions at Stanford, involved in multiple AI ventures",
+          "birthdate": "1976-04-18",
+          "locations": [
+            "London, England",
+            "United States",
+            "California",
+            "China"
+          ],
+          "affiliations": [
+            "Stanford University",
+            "Google Brain",
+            "Coursera",
+            "Baidu",
+            "AI Fund",
+            "Landing AI",
+            "DeepLearning.AI",
+            "Amazon Board of Directors"
+          ],
+          "notable_achievements": [
+            "Time 100 Most Influential People (2013)",
+            "Time100 AI list (2023)"
+          ]
+        }
+      },
+      {
+        "id": "daphne_koller",
+        "name": "Daphne Koller",
+        "type": "Person",
+        "attributes": {
+          "description": "Co-founder of Coursera, Stanford professor, business partner of Andrew Ng"
+        }
+      },
+      {
+        "id": "michael_i_jordan",
+        "name": "Michael I. Jordan",
+        "type": "Person",
+        "attributes": {
+          "description": "PhD advisor to Andrew Ng at UC Berkeley"
+        }
+      },
+      {
+        "id": "carnegie_mellon_university",
+        "name": "Carnegie Mellon University",
+        "type": "Organization",
+        "attributes": {
+          "description": "Educational institution where Andrew Ng received his BS degree"
+        }
+      },
+      {
+        "id": "massachusetts_institute_of_technology",
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "type": "Organization",
+        "attributes": {
+          "description": "Educational institution where Andrew Ng received his MS degree in 1998"
+        }
+      },
+      {
+        "id": "university_of_california_berkeley",
+        "name": "University of California Berkeley",
+        "type": "Organization",
+        "attributes": {
+          "description": "Educational institution where Andrew Ng received his PhD in 2002"
+        }
+      },
+      {
+        "id": "stanford_university",
+        "name": "Stanford University",
+        "type": "Organization",
+        "attributes": {
+          "description": "Academic institution where Ng served as professor and AI Lab director"
+        }
+      },
+      {
+        "id": "stanford_ai_lab",
+        "name": "Stanford AI Lab (SAIL)",
+        "type": "Organization",
+        "attributes": {
+          "description": "Research lab at Stanford University where Ng was director"
+        }
+      },
+      {
+        "id": "google_brain",
+        "name": "Google Brain",
+        "type": "Organization",
+        "attributes": {
+          "description": "AI research project founded by Andrew Ng, developed large-scale deep learning algorithms"
+        }
+      },
+      {
+        "id": "coursera",
+        "name": "Coursera",
+        "type": "Organization",
+        "attributes": {
+          "description": "Online education platform co-founded by Andrew Ng, major MOOC platform"
+        }
+      },
+      {
+        "id": "baidu",
+        "name": "Baidu",
+        "type": "Organization",
+        "attributes": {
+          "description": "Chinese tech company where Ng served as Chief Scientist from 2014-2017"
+        }
+      },
+      {
+        "id": "ai_fund",
+        "name": "AI Fund",
+        "type": "Organization",
+        "attributes": {
+          "description": "Venture capital fund founded by Andrew Ng focusing on AI startups, $190M Fund II closed by 2025"
+        }
+      },
+      {
+        "id": "landing_ai",
+        "name": "Landing AI",
+        "type": "Organization",
+        "attributes": {
+          "description": "Manufacturing-focused AI company founded by Andrew Ng"
+        }
+      },
+      {
+        "id": "deeplearning_ai",
+        "name": "DeepLearning.AI",
+        "type": "Organization",
+        "attributes": {
+          "description": "AI education/training platform founded by Andrew Ng"
+        }
+      },
+      {
+        "id": "amazon",
+        "name": "Amazon",
+        "type": "Organization",
+        "attributes": {
+          "description": "Tech company where Ng was appointed to the Board of Directors in April 2024"
+        }
+      },
+      {
+        "id": "mcrock_capital",
+        "name": "McRock Capital",
+        "type": "Organization",
+        "attributes": {
+          "description": "Venture capital firm that led Landing AI's Series A funding"
+        }
+      },
+      {
+        "id": "london_england",
+        "name": "London, England",
+        "type": "Location",
+        "attributes": {
+          "description": "Place of birth for Andrew Ng"
+        }
+      },
+      {
+        "id": "united_states",
+        "name": "United States",
+        "type": "Location",
+        "attributes": {
+          "description": "Base for Andrew Ng's education and career from the 1990s to present"
+        }
+      },
+      {
+        "id": "california",
+        "name": "California",
+        "type": "Location",
+        "attributes": {
+          "description": "Location of Stanford and UC Berkeley where Ng held academic positions"
+        }
+      },
+      {
+        "id": "china",
+        "name": "China",
+        "type": "Location",
+        "attributes": {
+          "description": "Country where Ng worked at Baidu as Chief Scientist"
+        }
+      },
+      {
+        "id": "cour_stock",
+        "name": "Coursera stock (COUR)",
+        "type": "Financial Instrument",
+        "attributes": {
+          "description": "Public equity of Coursera, Ng holds approximately 7.24 million shares"
+        }
+      },
+      {
+        "id": "amzn_stock",
+        "name": "Amazon stock (AMZN)",
+        "type": "Financial Instrument",
+        "attributes": {
+          "description": "Public equity of Amazon, Ng holds approximately 1,984 shares"
+        }
+      },
+      {
+        "id": "ai_fund_i",
+        "name": "AI Fund I",
+        "type": "Financial Instrument",
+        "attributes": {
+          "description": "$175M venture fund founded by Ng in 2018"
+        }
+      },
+      {
+        "id": "ai_fund_ii",
+        "name": "AI Fund II",
+        "type": "Financial Instrument",
+        "attributes": {
+          "description": "$190M venture fund raised by AI Fund by 2025"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "andrew_ng",
+        "target": "daphne_koller",
+        "relationship": "co_founded",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "michael_i_jordan",
+        "relationship": "phd_advisor",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "carnegie_mellon_university",
+        "relationship": "undergraduate_degree",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "massachusetts_institute_of_technology",
+        "relationship": "masters_degree",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "university_of_california_berkeley",
+        "relationship": "phd_degree",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "stanford_university",
+        "relationship": "faculty_position",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "stanford_ai_lab",
+        "relationship": "lab_directorship",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "google_brain",
+        "relationship": "founded",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "coursera",
+        "relationship": "co_founded",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "baidu",
+        "relationship": "chief_scientist",
+        "confidence": 0.9,
+        "attributes": {
+          "timeframe": "2014-2017"
+        }
+      },
+      {
+        "source": "andrew_ng",
+        "target": "ai_fund",
+        "relationship": "founded",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "landing_ai",
+        "relationship": "founded",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "deeplearning_ai",
+        "relationship": "founded",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "andrew_ng",
+        "target": "amazon",
+        "relationship": "board_member",
+        "confidence": 0.8,
+        "attributes": {
+          "timeframe": "2024-present"
+        }
+      },
+      {
+        "source": "landing_ai",
+        "target": "mcrock_capital",
+        "relationship": "funding_lead",
+        "confidence": 0.8,
+        "attributes": {}
+      }
+    ]
+  }
+}

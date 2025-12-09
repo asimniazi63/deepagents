@@ -1,0 +1,641 @@
+{
+  "executive_summary": "Isabel dos Santos, the former chairwoman of Sonangol (2016-2017, Dubai), is under investigation for extensive financial misappropriation, including allegations of embezzlement totaling over €52.6 million from Sonangol. Her operations involve a complex network featuring significant legal and regulatory challenges across multiple jurisdictions, with ongoing criminal charges and active sanctions in the UK. RISK LEVEL: CRITICAL - The subject poses severe legal, financial, and reputational risks to stakeholders.",
+  "risk_level": "CRITICAL",
+  "key_findings": [
+    "[CRITICAL] Conviction Overturned - José Filomeno dos Santos' conviction was annulled on constitutional grounds, raising risks for Isabel's ongoing trial.",
+    "[CRITICAL] Active Interpol Red Notice - Isabel dos Santos is living in Dubai, evading arrest under international notice.",
+    "[CRITICAL] Misappropriation Claims Confirmed - Dutch courts found substantial mismanagement and document forgery associated with €52.6 million diversion."
+  ],
+  "biographical_overview": "Isabel dos Santos, born April 20, 1973, in Baku, Azerbaijan (formerly USSR), is the daughter of former Angolan President José Eduardo dos Santos. She studied electrical engineering at King's College in London. Married to Sindika Dokolo, an art collector until his death in 2020, she is often noted as Africa's wealthiest woman.",
+  "professional_history": "Isabel dos Santos was appointed chairwoman of Sonangol, Angola's state oil company, in June 2016 and dismissed in November 2017. She has held various influential roles in telecommunications, banking, and energy sectors, leveraging her familial connections.",
+  "financial_analysis": "Estimated net worth is $2 billion as of 2025, primarily from telecommunications and banking stakes. Major assets include 25% in Unitel, 42.5% in Banco BIC, and significant offshore holdings, particularly through complex corporate structures involving over 400 companies in tax havens.",
+  "legal_regulatory": "Isabel has faced numerous investigations and legal challenges, including an active Interpol red notice, UK sanctions, and ongoing criminal charges in Angola related to embezzlement and money laundering. The UK Court of Appeal upheld asset freezes totaling £580 million related to her actions at Sonangol and Unitel.",
+  "behavioral_patterns": "Documented patterns of financial mismanagement, rapid asset movement before legal actions, and engagement in complex financial structures hint at evasive strategies concerning regulatory scrutiny.",
+  "red_flags": [
+    {
+      "severity": "CRITICAL",
+      "detail": "José Filomeno dos Santos' conviction overturned, raising risks for Isabel's ongoing trial."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Isabel is residing in Dubai, defying an active Interpol red notice and sanctions."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Findings of substantial mismanagement and document forgery related to €52.6 million diversion from Sonangol."
+    }
+  ],
+  "neutral_facts": [
+    "Isabel was the first female billionaire in Africa and held prominent stakes in various reputable companies."
+  ],
+  "positive_indicators": [],
+  "key_relationships": [
+    "Isabel dos Santos --daughter-of--> José Eduardo dos Santos;",
+    "Isabel dos Santos --married-to--> Sindika Dokolo;",
+    "Isabel dos Santos --co-owner--> Mário Leite da Silva;",
+    "Isabel dos Santos --associate--> Paula Oliveira;",
+    "Isabel dos Santos --associate--> Sarju Raikundalia."
+  ],
+  "suspicious_connections": [
+    ">Co-ownership of the Dubai-based Ironsea company raises ethical questions.",
+    "Mário Leite da Silva's involvement in approving significant payments casts doubt on internal governance."
+  ],
+  "source_summary": "High-quality sources include official court decisions, reputable media reports, and ICIJ investigations providing corroboration across multiple jurisdictions.",
+  "evidence_strength": "Very Strong due to numerous corroborations and primary sources supporting key findings.",
+  "information_gaps": [
+    "Need clarity on specific procedural violations in Isabel's trial to assess her risk of overturning convictions.",
+    "Current status and details of Mario Silva's investigation remain unknown, essential for understanding financial networks."
+  ],
+  "research_limitations": "Ongoing investigations limit access to certain court documents and proprietary financial records, hindering a complete picture.",
+  "recommendations": [
+    "Immediate legal action is needed to prepare for Isabel's ongoing trial, ensuring appropriate defense strategies are in place.",
+    "Monitored developments in UK sanctions and enforcement to assess ongoing financial risk posed by Isabel's operations.",
+    "Further investigations into Mario Leite da Silva’s current status and the outcome of his investigations in multiple jurisdictions."
+  ],
+  "metadata": {
+    "subject": "Isabel dos Santos",
+    "session_id": "sess_20251208_211141",
+    "research_depth": 5,
+    "total_queries": 25,
+    "total_sources": 85,
+    "confidence_score": 0.0,
+    "processing_time_seconds": 1276.384514,
+    "termination_reason": null,
+    "generated_at": "2025-12-08T21:32:57.841577",
+    "models_used": {
+      "search": "gpt-4o-mini",
+      "analysis": "claude-sonnet-4-5-20250929",
+      "synthesis": "gpt-4o-mini"
+    }
+  },
+  "entity_graph": {
+    "nodes": [
+      {
+        "id": "isabel_dos_santos",
+        "name": "Isabel dos Santos",
+        "type": "Person",
+        "attributes": {
+          "title": "Businesswoman/Former Sonangol Chair",
+          "tenure": "2016-2017",
+          "relationship": "Subject",
+          "mention_count": 4
+        }
+      },
+      {
+        "id": "jose_eduardo_dos_santos",
+        "name": "José Eduardo dos Santos",
+        "type": "Person",
+        "attributes": {
+          "title": "President of Angola",
+          "tenure": "1979-2017",
+          "relationship": "Father of Isabel dos Santos",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "sindika_dokolo",
+        "name": "Sindika Dokolo",
+        "type": "Person",
+        "attributes": {
+          "title": "Businessman/Art Collector",
+          "relationship": "Husband of Isabel dos Santos (deceased)",
+          "mention_count": 3
+        }
+      },
+      {
+        "id": "mario_leite_da_silva",
+        "name": "Mário Leite da Silva",
+        "type": "Person",
+        "attributes": {
+          "title": "Business Associate",
+          "relationship": "Co-owner of Ironsea with Isabel dos Santos",
+          "mention_count": 5
+        }
+      },
+      {
+        "id": "americo_amorim",
+        "name": "Américo Amorim",
+        "type": "Person",
+        "attributes": {
+          "title": "Portuguese Billionaire",
+          "relationship": "Former Banco BIC stakeholder",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "bob_moritz",
+        "name": "Bob Moritz",
+        "type": "Person",
+        "attributes": {
+          "title": "PwC Global Chairman",
+          "relationship": "Ordered internal investigation post-Luanda Leaks",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "jose_filomeno_dos_santos",
+        "name": "José Filomeno dos Santos",
+        "type": "Person",
+        "attributes": {
+          "title": "Head of Angola Sovereign Wealth Fund (2013-2018)",
+          "relationship": "Brother of Isabel dos Santos, convicted for fraud",
+          "mention_count": 3
+        }
+      },
+      {
+        "id": "sergio_raimundo",
+        "name": "Sérgio Raimundo",
+        "type": "Person",
+        "attributes": {
+          "title": "Defense Lawyer for Isabel dos Santos",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "luisa_damiao_santos",
+        "name": "Luísa Damião Santos",
+        "type": "Person",
+        "attributes": {
+          "title": "Vice-President MPLA",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "joao_lourenco",
+        "name": "João Lourenço",
+        "type": "Person",
+        "attributes": {
+          "title": "President of Angola",
+          "tenure": "2017-present",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "ironsea",
+        "name": "Ironsea",
+        "type": "Organization",
+        "attributes": {
+          "description": "Dubai-based consultancy",
+          "ownership": "Co-owned by Isabel dos Santos and Mário Leite da Silva",
+          "mention_count": 3
+        }
+      },
+      {
+        "id": "matter_business_solutions",
+        "name": "Matter Business Solutions",
+        "type": "Organization",
+        "attributes": {
+          "description": "Dubai consultancy (formerly Ironsea)",
+          "ownership": "Received $130M+ from Sonangol 2017-2018",
+          "mention_count": 4
+        }
+      },
+      {
+        "id": "fidequity",
+        "name": "Fidequity",
+        "type": "Organization",
+        "attributes": {
+          "description": "Lisbon-based company owned by Isabel dos Santos",
+          "relationship": "Payment intermediary",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "unitel",
+        "name": "Unitel",
+        "type": "Organization",
+        "attributes": {
+          "description": "Angolan telecom operator",
+          "relationship": "Accused Isabel dos Santos of unpaid loans",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "gla_advogados",
+        "name": "Gla Advogados",
+        "type": "Organization",
+        "attributes": {
+          "description": "Angola-based law firm",
+          "relationship": "Structured Caculo Cabaça consortium for dos Santos",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "plmj",
+        "name": "PLMJ",
+        "type": "Organization",
+        "attributes": {
+          "description": "Lisbon-based law firm",
+          "relationship": "Structured Caculo Cabaça consortium for dos Santos",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "cgcc_niara_holding_limitada",
+        "name": "CGGC & Niara Holding Limitada",
+        "type": "Organization",
+        "attributes": {
+          "description": "Joint venture entity for Caculo Cabaça",
+          "relationship": "Removed from project July 2018",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "boreal_investment_ltd",
+        "name": "Boreal Investment Ltd.",
+        "type": "Organization",
+        "attributes": {
+          "description": "Isabel dos Santos company",
+          "ownership": "Held stake in Caculo Cabaça consortium, removed July 2018",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "uk_foreign_commonwealth_development_office",
+        "name": "UK Foreign, Commonwealth & Development Office",
+        "type": "Organization",
+        "attributes": {
+          "description": "Imposed travel ban + asset freeze on Isabel dos Santos in November 2024",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "mpla",
+        "name": "MPLA (People's Movement for the Liberation of Angola)",
+        "type": "Organization",
+        "attributes": {
+          "description": "Ruling party Angola",
+          "relationship": "Rejected political persecution claims against dos Santos",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "caculo_cabaca_dam",
+        "name": "Caculo Cabaça Dam",
+        "type": "Financial Instrument",
+        "attributes": {
+          "description": "$5B state contract; awarded without competitive bidding",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "luanda_leaks",
+        "name": "Luanda Leaks",
+        "type": "Event",
+        "attributes": {
+          "description": "715,000+ documents leaked",
+          "timing": "January 2020",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "dubai",
+        "name": "Dubai",
+        "type": "Location",
+        "attributes": {
+          "description": "Location of Ironsea consultancy, site of Sindika Dokolo death",
+          "mention_count": 4
+        }
+      },
+      {
+        "id": "lisbon_portugal",
+        "name": "Lisbon, Portugal",
+        "type": "Location",
+        "attributes": {
+          "description": "Location of Fidequity",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "type": "Location",
+        "attributes": {
+          "description": "Location of José Filomeno's $500M transfer from sovereign wealth fund",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "uk",
+        "name": "UK",
+        "type": "Location",
+        "attributes": {
+          "description": "Jurisdiction imposing sanctions and upholding asset freeze",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "paula_oliveira",
+        "name": "Paula Oliveira",
+        "type": "Person",
+        "attributes": {
+          "title": "Associate of Isabel dos Santos",
+          "relationship": "Sanctioned by UK government November 2024 under Global Anti-Corruption Sanctions",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "sarju_raikundalia",
+        "name": "Sarju Raikundalia",
+        "type": "Person",
+        "attributes": {
+          "title": "Associate of Isabel dos Santos",
+          "relationship": "Sanctioned by UK government November 2024 under Global Anti-Corruption Sanctions",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "ofsi",
+        "name": "Office of Financial Sanctions Implementation (OFSI)",
+        "type": "Organization",
+        "attributes": {
+          "description": "UK government agency",
+          "relationship": "Maintains UK Sanctions List including Isabel dos Santos, Enforces asset freeze + travel ban",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "luanda_provincial_court",
+        "name": "Luanda Provincial Court",
+        "type": "Organization",
+        "attributes": {
+          "description": "Angola judicial body",
+          "relationship": "Ordered preemptive freezing of dos Santos/Dokolo/Leite da Silva accounts December 2019",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "angola_constitutional_court",
+        "name": "Angola Constitutional Court",
+        "type": "Organization",
+        "attributes": {
+          "description": "Highest court Angola",
+          "relationship": "Annulled all Supreme Court rulings against José Filomeno April 2024, Declared legal process \"unconstitutional and null\"",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "esperaza_holding_bv",
+        "name": "Esperaza Holding BV",
+        "type": "Organization",
+        "attributes": {
+          "description": "Netherlands-registered company associated with Isabel dos Santos",
+          "relationship": "Subject of Dutch investigation with Leite da Silva testimony",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "exem_energy",
+        "name": "Exem Energy",
+        "type": "Organization",
+        "attributes": {
+          "description": "Company receiving large financial transfers from Esperaza Holding BV",
+          "relationship": "Part of Dutch investigation",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "dubai_international_financial_centre",
+        "name": "Dubai International Financial Centre (DIFC)",
+        "type": "Organization",
+        "attributes": {
+          "description": "UAE financial free zone",
+          "relationship": "Searched for Matter Business Solutions records - NONE FOUND",
+          "mention_count": 1
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "isabel_dos_santos",
+        "target": "jose_eduardo_dos_santos",
+        "relationship": "daughter_of",
+        "confidence": 0.9,
+        "attributes": {
+          "timeframe": "1973-present"
+        }
+      },
+      {
+        "source": "jose_filomeno_dos_santos",
+        "target": "isabel_dos_santos",
+        "relationship": "brother_of",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "sindika_dokolo",
+        "target": "isabel_dos_santos",
+        "relationship": "husband_of",
+        "confidence": 0.95,
+        "attributes": {
+          "status": "deceased"
+        }
+      },
+      {
+        "source": "mario_leite_da_silva",
+        "target": "isabel_dos_santos",
+        "relationship": "co_owner_of",
+        "confidence": 0.85,
+        "attributes": {
+          "business": "Ironsea"
+        }
+      },
+      {
+        "source": "americo_amorim",
+        "target": "mario_leite_da_silva",
+        "relationship": "former_business_associate_of",
+        "confidence": 0.75,
+        "attributes": {}
+      },
+      {
+        "source": "bob_moritz",
+        "target": "luanda_leaks",
+        "relationship": "ordered_investigation_due_to",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "jose_filomeno_dos_santos",
+        "target": "jose_eduardo_dos_santos",
+        "relationship": "son_of",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "jose_filomeno_dos_santos",
+        "target": "jose_eduardo_dos_santos",
+        "relationship": "brother_of",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "mpla",
+        "target": "isabel_dos_santos",
+        "relationship": "politically_connected_to",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "ironsea",
+        "target": "matter_business_solutions",
+        "relationship": "renamed_to",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "isabel_dos_santos",
+        "target": "fidequity",
+        "relationship": "owner_of",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "isabel_dos_santos",
+        "target": "unitel",
+        "relationship": "accused_of_unpaid_loans_by",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "gla_advogados",
+        "target": "jose_eduardo_dos_santos",
+        "relationship": "legal_adviser_for",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "paula_oliveira",
+        "target": "isabel_dos_santos",
+        "relationship": "associate_of",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "sarju_raikundalia",
+        "target": "isabel_dos_santos",
+        "relationship": "associate_of",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "uk_foreign_commonwealth_development_office",
+        "target": "isabel_dos_santos",
+        "relationship": "sanctioned_by",
+        "confidence": 0.95,
+        "attributes": {
+          "timeframe": "2024"
+        }
+      },
+      {
+        "source": "luanda_provincial_court",
+        "target": "isabel_dos_santos",
+        "relationship": "restrained_accounts_of",
+        "confidence": 0.9,
+        "attributes": {
+          "timeframe": "2019"
+        }
+      },
+      {
+        "source": "angola_constitutional_court",
+        "target": "jose_filomeno_dos_santos",
+        "relationship": "ruled_in_favor_of",
+        "confidence": 0.85,
+        "attributes": {
+          "timeframe": "2024"
+        }
+      },
+      {
+        "source": "esperaza_holding_bv",
+        "target": "isabel_dos_santos",
+        "relationship": "subject_of_investigation_with",
+        "confidence": 0.8,
+        "attributes": {
+          "agency": "Dutch investigation"
+        }
+      },
+      {
+        "source": "gla_advogados",
+        "target": "caculo_cabaca_dam",
+        "relationship": "structured_for",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "plmj",
+        "target": "caculo_cabaca_dam",
+        "relationship": "structured_for",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "cgcc_niara_holding_limitada",
+        "target": "caculo_cabaca_dam",
+        "relationship": "involved_in_project_for",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "boreal_investment_ltd",
+        "target": "caculo_cabaca_dam",
+        "relationship": "held_stake_in",
+        "confidence": 0.8,
+        "attributes": {
+          "timeframe": "pre-2018"
+        }
+      },
+      {
+        "source": "exem_energy",
+        "target": "esperaza_holding_bv",
+        "relationship": "received_transfers_from",
+        "confidence": 0.75,
+        "attributes": {}
+      },
+      {
+        "source": "ofsi",
+        "target": "uk_foreign_commonwealth_development_office",
+        "relationship": "collaborated_with",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "luanda_leaks",
+        "target": "isabel_dos_santos",
+        "relationship": "impact_on_name_due_to",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "joao_lourenco",
+        "target": "jose_filomeno_dos_santos",
+        "relationship": "appointed_as",
+        "confidence": 0.75,
+        "attributes": {}
+      },
+      {
+        "source": "jose_filomeno_dos_santos",
+        "target": "bob_moritz",
+        "relationship": "convicted_for",
+        "confidence": 0.85,
+        "attributes": {
+          "details": "fraud"
+        }
+      },
+      {
+        "source": "mpla",
+        "target": "jose_filomeno_dos_santos",
+        "relationship": "defended_by",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "luanda_provincial_court",
+        "target": "jose_filomeno_dos_santos",
+        "relationship": "tried_in_court_for",
+        "confidence": 0.8,
+        "attributes": {
+          "charges": "fraud"
+        }
+      }
+    ]
+  }
+}

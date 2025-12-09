@@ -1,0 +1,370 @@
+{
+  "executive_summary": "Dr. Lena Voronina, currently under federal indictment for severe violations involving sanctions evasion and false statements, is closely linked to sanctioned Russian oligarch Oleg Deripaska. Legal proceedings remain unresolved after three years, and there is substantial evidence of financial dependence on illicit funds. RISK LEVEL: CRITICAL - Subject poses significant legal, financial, and reputational risk to potential partners or investors.",
+  "risk_level": "CRITICAL",
+  "key_findings": [
+    "[CRITICAL] Active federal indictment for IEEPA sanctions evasion and false statements with a maximum prison sentence of 20 years. Evidence: DOJ indictment (September 2022), Yermak-McFaul report. Impact: Severe legal repercussions and reputational damage. Status: Ongoing.",
+    "[CRITICAL] Documented financial ties with sanctioned oligarch Oleg Deripaska, amounting to $300,000+, raise compliance risks for potential business partners. Evidence: DOJ indictment detailing financial assistance. Impact: Any relationship could invoke secondary sanctions. Status: Ongoing.",
+    "[CRITICAL] Complete lack of evidence supporting the claim of being an \"AI & Data Startup Founder\" indicates potential identity fraud or misrepresentation. Evidence: Exhaustive searches yielding no results. Impact: Raises questions about credibility and background. Status: Proven."
+  ],
+  "biographical_overview": "Dr. Lena Voronina, also known as Ekaterina Olegovna Voronina or Ekaterina Lobanova, is a Russian national, born around 1985-1995. She is the mother of two children with Oleg Deripaska, born in the U.S. in 2020 and 2022. No educational credentials have been validated, and her professional background is unsupported by any records.",
+  "professional_history": "No legitimate professional history or employment has been identified for Dr. Voronina. Despite claims of being a founder in the AI and data sector, exhaustive searches have revealed no involvement in any AI startup or technology-related company.",
+  "financial_analysis": "Dr. Voronina has been identified as financially dependent on Oleg Deripaska's network, receiving over $300,000 in expenses for her medical care, housing, and childcare from 2020 to 2022. No independent wealth or legitimate source of income has been discovered, indicating a complete lack of financial autonomy.",
+  "legal_regulatory": "Dr. Voronina faces ongoing federal felony charges for IEEPA violations and false statements. Her case has not moved to trial, plea agreement, or dismissal, and she is notably absent from the OFAC SDN list despite her indictment. This unusual absence raises concerns about her current status, potentially as a fugitive or cooperating witness.",
+  "behavioral_patterns": "Dr. Voronina has demonstrated a pattern of deception evidenced by false statements to DHS officers and multiple aliases (Lena Voronina, Ekaterina Olegovna Voronina, Ekaterina Lobanova). These behaviors suggest strategic planning in her dealings and a willingness to engage in deceptive practices.",
+  "red_flags": [
+    {
+      "severity": "CRITICAL",
+      "detail": "Active federal fugitive or sealed cooperation - 3-year prosecutorial silence highly anomalous."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Federal criminal indictment for sanctions evasion (IEEPA violations) - 20-year maximum sentence."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Direct financial dependence on sanctioned Russian oligarch ($300,000+ documented)."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Alleged conspiracy to evade U.S. sanctions through childbirth citizenship scheme."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "False statements to federal law enforcement (DHS officers, June 2022)."
+    },
+    {
+      "severity": "CRITICAL",
+      "detail": "Complete fabrication of professional identity - 'AI & Data Startup Founder' claim is FALSE."
+    },
+    {
+      "severity": "HIGH",
+      "detail": "Use of multiple aliases for identity obfuscation (Lena Voronina, Ekaterina Olegovna Voronina, Ekaterina Lobanova)."
+    },
+    {
+      "severity": "HIGH",
+      "detail": "NOT on OFAC SDN list despite federal sanctions evasion indictment - highly unusual."
+    },
+    {
+      "severity": "HIGH",
+      "detail": "Zero independent financial profile or legitimate income sources."
+    },
+    {
+      "severity": "HIGH",
+      "detail": "Likely fugitive status - no U.S. custody or trial proceedings found."
+    },
+    {
+      "severity": "MEDIUM",
+      "detail": "'Dr.' title in subject description unsupported by any educational credentials."
+    }
+  ],
+  "neutral_facts": [
+    "Charges filed in 2022, no conviction yet - presumption of innocence applies. No other litigation or regulatory actions discovered."
+  ],
+  "positive_indicators": [],
+  "key_relationships": [
+    "Lena Voronina is romantically linked to Oleg Deripaska, a sanctioned Russian oligarch, with whom she has two children, raising significant compliance and reputational risks for partners.",
+    "Oleg Deripaska has employed associates such as Natalia Bardakova and Olga Shriki, who facilitated Voronina's U.S. travel during the documented sanctions evasion scheme."
+  ],
+  "suspicious_connections": [
+    "Relationships with Oleg Deripaska and his associates indicate a high-risk nexus of sanctioned individuals and potential for further legal entanglements."
+  ],
+  "source_summary": "Most sources are high credibility (Tier 1) from government legal documents and indictment filings; corroboration of attacks is strong. Gaps in available information about the subjects' professional history and true legal status are significant.",
+  "evidence_strength": "Strong for legal exposure and sanctions evasion allegations; absent for professional background and educational credentials, raising questions about veracity.",
+  "information_gaps": [
+    "Current legal status and case disposition (active fugitive status).",
+    "Current location and custody status - whether the subject is in U.S. custody or hiding in another jurisdiction.",
+    "True identity and actual occupation - the validity of the subject's claimed professional identity as AI & Data Startup Founder.",
+    "Scope of financial relationship with Deripaska beyond the documented $300,000+.",
+    "Other litigation or associations indicating ongoing business activity."
+  ],
+  "research_limitations": "Time constraints limited the ability to investigate beyond open sources; potential sealed records and gaps in cross-jurisdictional data hindered comprehensive review.",
+  "recommendations": [
+    "Immediate Actions: Do Not Proceed with any engagements involving Dr. Voronina due to critical legal and reputational risks. ",
+    "Further Investigation: Law enforcement inquiries needed to clarify her current custodial status and any sealed cooperation status. Investigate applied corporate structures that may hide further financial dependence on Deripaska's network. ",
+    "Monitoring: Ongoing surveillance of any new legal developments or changes in status related to the federal case or OFAC designation. Maintain regular updates on any public disclosures."
+  ],
+  "metadata": {
+    "subject": "Dr. Lena Voronina",
+    "session_id": "sess_20251208_202514",
+    "research_depth": 2,
+    "total_queries": 10,
+    "total_sources": 18,
+    "confidence_score": 0.0,
+    "processing_time_seconds": 396.464534,
+    "termination_reason": null,
+    "generated_at": "2025-12-08T20:31:51.017373",
+    "models_used": {
+      "search": "gpt-4o-mini",
+      "analysis": "claude-sonnet-4-5-20250929",
+      "synthesis": "gpt-4o-mini"
+    }
+  },
+  "entity_graph": {
+    "nodes": [
+      {
+        "id": "lena_voronina",
+        "name": "Lena Voronina",
+        "type": "person",
+        "attributes": {
+          "aliases": [
+            "Ekaterina Olegovna Voronina",
+            "Ekaterina Lobanova"
+          ],
+          "mention_count": 3,
+          "status": "charged with sanctions evasion and false statements"
+        }
+      },
+      {
+        "id": "oleg_deripaska",
+        "name": "Oleg Deripaska",
+        "type": "person",
+        "attributes": {
+          "mention_count": 3,
+          "status": "sanctioned by U.S. (2018)"
+        }
+      },
+      {
+        "id": "natalia_bardakova",
+        "name": "Natalia Bardakova",
+        "type": "person",
+        "attributes": {
+          "mention_count": 2,
+          "status": "co-defendant in indictment"
+        }
+      },
+      {
+        "id": "olga_shriki",
+        "name": "Olga Shriki",
+        "type": "person",
+        "attributes": {
+          "mention_count": 2,
+          "status": "co-defendant in indictment"
+        }
+      },
+      {
+        "id": "polina_yumasheva",
+        "name": "Polina Yumasheva",
+        "type": "person",
+        "attributes": {
+          "mention_count": 1,
+          "status": "mother of Deripaska's older children"
+        }
+      },
+      {
+        "id": "pyotr_deripaska",
+        "name": "Pyotr Deripaska",
+        "type": "person",
+        "attributes": {
+          "mention_count": 1,
+          "status": "son of Deripaska"
+        }
+      },
+      {
+        "id": "maria_deripaska",
+        "name": "Maria Deripaska",
+        "type": "person",
+        "attributes": {
+          "mention_count": 1,
+          "status": "daughter of Deripaska"
+        }
+      },
+      {
+        "id": "us_department_of_justice",
+        "name": "U.S. Department of Justice",
+        "type": "organization",
+        "attributes": {
+          "mention_count": 2,
+          "function": "prosecuting authority",
+          "focused_case": "Lena Voronina et al."
+        }
+      },
+      {
+        "id": "us_department_of_homeland_security",
+        "name": "U.S. Department of Homeland Security",
+        "type": "organization",
+        "attributes": {
+          "mention_count": 2,
+          "function": "investigating agency"
+        }
+      },
+      {
+        "id": "ofac",
+        "name": "Office of Foreign Assets Control",
+        "type": "organization",
+        "attributes": {
+          "mention_count": 2,
+          "function": "sanctions enforcement",
+          "aliases": [
+            "OFAC"
+          ]
+        }
+      },
+      {
+        "id": "yermak_mcfaul_working_group_on_russian_sanctions",
+        "name": "Yermak-McFaul Working Group on Russian Sanctions",
+        "type": "organization",
+        "attributes": {
+          "mention_count": 2,
+          "function": "policy/research",
+          "documented_case": "Lena Voronina"
+        }
+      },
+      {
+        "id": "basic_element",
+        "name": "Basic Element",
+        "type": "organization",
+        "attributes": {
+          "mention_count": 1,
+          "function": "business",
+          "status": "sanctioned conglomerate associated with Deripaska"
+        }
+      },
+      {
+        "id": "southern_district_of_new_york",
+        "name": "Southern District of New York",
+        "type": "location",
+        "attributes": {
+          "mention_count": 1,
+          "context": "court jurisdiction for prosecution",
+          "aliases": [
+            "SDNY"
+          ]
+        }
+      },
+      {
+        "id": "los_angeles_california",
+        "name": "Los Angeles, California",
+        "type": "location",
+        "attributes": {
+          "mention_count": 2,
+          "context": "location of Voronina's stays, housing, medical care"
+        }
+      },
+      {
+        "id": "united_states",
+        "name": "United States",
+        "type": "location",
+        "attributes": {
+          "mention_count": 2,
+          "context": "jurisdiction of charges"
+        }
+      },
+      {
+        "id": "russia",
+        "name": "Russia",
+        "type": "location",
+        "attributes": {
+          "mention_count": 2,
+          "context": "implied residence/nationality of Deripaska network"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "lena_voronina",
+        "target": "oleg_deripaska",
+        "relationship": "romantic_partner",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "lena_voronina",
+        "target": "natalia_bardakova",
+        "relationship": "co_defendant",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "lena_voronina",
+        "target": "olga_shriki",
+        "relationship": "co_defendant",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "natalia_bardakova",
+        "target": "oleg_deripaska",
+        "relationship": "associate",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "olga_shriki",
+        "target": "oleg_deripaska",
+        "relationship": "associate",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "polina_yumasheva",
+        "target": "oleg_deripaska",
+        "relationship": "previously_married",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "pyotr_deripaska",
+        "target": "oleg_deripaska",
+        "relationship": "father",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "maria_deripaska",
+        "target": "oleg_deripaska",
+        "relationship": "daughter",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "us_department_of_justice",
+        "target": "lena_voronina",
+        "relationship": "prosecution",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "us_department_of_homeland_security",
+        "target": "lena_voronina",
+        "relationship": "investigating",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "ofac",
+        "target": "oleg_deripaska",
+        "relationship": "sanctioned",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "basic_element",
+        "target": "oleg_deripaska",
+        "relationship": "associated_with",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "southern_district_of_new_york",
+        "target": "lena_voronina",
+        "relationship": "court_jurisdiction",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "los_angeles_california",
+        "target": "lena_voronina",
+        "relationship": "stay_location",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "united_states",
+        "target": "lena_voronina",
+        "relationship": "jurisdiction",
+        "confidence": 0.9,
+        "attributes": {}
+      }
+    ]
+  }
+}

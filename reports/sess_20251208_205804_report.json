@@ -1,0 +1,516 @@
+{
+  "executive_summary": "Adrian Cole, CEO and Founder of Voiceblasts, and formerly the CTO at LookSmart (2000-2002), possesses a legitimate technology executive background but lacks the credentials to be labeled a 'Visionary Big Tech Founder.' Overall risk level: HIGH. The primary concerns include claims of credential misrepresentation regarding major tech company founding, absence of a substantial digital footprint as a founder, and persistent ambiguity regarding his identity amidst several other individuals named Adrian Cole. This information suggests significant misalignment with the expectations for any role involving high-stakes executive decision-making.",
+  "risk_level": "HIGH",
+  "key_findings": [
+    "[CRITICAL] Credential misrepresentation regarding 'Big Tech Founder' claim.",
+    "[HIGH] Ongoing identity ambiguity concerning multiple Adrian Coles with disparate careers.",
+    "[MEDIUM] Absence of major technology company founding, limited to a small-scale operation."
+  ],
+  "biographical_overview": "Adrian Cole, a technology executive identified as the CEO and Founder of Voiceblasts, holds an Electro-Mechanical Engineering degree from the University of Cape Town. He has predominantly operated across various technology and finance sectors, primarily in the USA (San Francisco) and Australia, though specific personal details including date of birth and family background remain undisclosed. His career trajectory reflects substantial engagement in technology roles since 1995, including leadership positions at LookSmart and Sausage Software.",
+  "professional_history": "- Current: CEO/Founder, Voiceblasts (Current)  \n- Formerly served as CTO at LookSmart (2000-2002)  \n- CTO/Entrepreneur in Residence at Sausage Software (1995-1999)  \n- Group Business Development Manager at Microsoft bCentral (Dates Unclear)  \n- CEO of Seclarity (Dates Unclear)  \n- Has invested in Datahug and Fieldaware as early-stage tech ventures.",
+  "financial_analysis": "No estimated net worth publicly available. Income derived from executive roles, private equity activities, and early-stage tech investments. Voiceblasts appears to be a small-scale company with limited financial disclosures.",
+  "legal_regulatory": "No active legal issues, lawsuits, or regulatory actions have been identified. Historical searches reveal a clean professional background without any recorded infractions or legal entanglements.",
+  "behavioral_patterns": "Adrian Cole has shown a tendency towards entrepreneurship and investment in tech ventures. His professional focus has included managing portfolios and technology ventures, suggesting a risk-averse approach tempered by strategic decision-making. There is a notable absence of negative press or public controversies.",
+  "red_flags": [
+    {
+      "severity": "CRITICAL",
+      "detail": "Credential misrepresentation of being a 'Visionary Big Tech Founder' despite evidence indicating valid executive roles only."
+    },
+    {
+      "severity": "HIGH",
+      "detail": "Possible identity ambiguity with multiple individuals sharing the same name, leading to reputational risk."
+    },
+    {
+      "severity": "MEDIUM",
+      "detail": "Absence of substantial founding history in major technology firms, only confirming small-scale operations without significant public impact."
+    }
+  ],
+  "neutral_facts": [
+    "Adrian Cole has a validated background in technology executive roles.",
+    "He has managed early-stage technology investments, showing ongoing relevance in the tech sector."
+  ],
+  "positive_indicators": [
+    "Cole held legitimate CTO roles at LookSmart and in the Sausage Software ecosystem.",
+    "Demonstrated experience as a CEO in security technology shows operational leadership.",
+    "Active in philanthropy and mentorship within various organizations."
+  ],
+  "key_relationships": [
+    "CEO and Founder, Voiceblasts: Adrian Cole",
+    "Former CTO, LookSmart: Adrian Cole",
+    "Former roles in management/leadership at Sausage Software: Adrian Cole"
+  ],
+  "suspicious_connections": [
+    "No direct relationships identified that suggest conflicting interests or patterns of concern."
+  ],
+  "source_summary": "The report utilized comprehensive sources, with a substantial mix of Tier 1 and Tier 2 credibility. Main sources include public corporate documents, industry databases, and verified news outlets. High confidence placed on identified roles but moderate uncertainty surrounding the subject’s self-characterization and emerging resume claims. Overall, corroboration is strong in confirming executive roles, whereas founder claims remain unsupported.",
+  "evidence_strength": "Documentary evidence confirms executive roles in reputable firms but lacks supporting documents for any major technology founding claims. The lack of a digital footprint as a founder raises doubts about the subject's own representations. Identification ambiguity remains an unresolved concern, requiring additional defining details to support current findings.",
+  "information_gaps": [
+    "High: Definitive information pertaining to Adrian Cole's identity and full nature of business operations with Voiceblasts is essential.",
+    "High: Scale and operational details of Voiceblasts required to assess claims of leadership in 'Big Tech'.",
+    "High: Subject's self-represented credentials need verification through official channels or platforms like LinkedIn."
+  ],
+  "research_limitations": "All inquiries were constrained by limited access to personal identification documents due to the commonality of the name 'Adrian Cole'. Additionally, Voiceblasts provided minimal online presence, hindering in-depth financial assessment. Time limitations also restricted exhaustive queries into all possible connections without risking diminishing returns on future investigations.",
+  "recommendations": [
+    "IMMEDIATE ACTIONS: Given the credential misrepresentation, caution against any decisions that elevate Adrian Cole’s profile as a tech founder.",
+    "FURTHER INVESTIGATION: Pursue definitive identification through direct engagements or seek further information from his current associates to clarify operational roles and claims.",
+    "MONITORING: Continuously track for any emerging formal recognitions, controversies, or legal actions related to Adrian Cole.",
+    "DECISION FRAMEWORK: Evaluate decision-making in the context of ongoing developments in Adrian Cole’s profile and industry dynamics."
+  ],
+  "metadata": {
+    "subject": "Adrian Cole",
+    "session_id": "sess_20251208_205804",
+    "research_depth": 2,
+    "total_queries": 10,
+    "total_sources": 18,
+    "confidence_score": 0.0,
+    "processing_time_seconds": 455.132777,
+    "termination_reason": null,
+    "generated_at": "2025-12-08T21:05:39.983956",
+    "models_used": {
+      "search": "gpt-4o-mini",
+      "analysis": "claude-sonnet-4-5-20250929",
+      "synthesis": "gpt-4o-mini"
+    }
+  },
+  "entity_graph": {
+    "nodes": [
+      {
+        "id": "adrian_cole_1",
+        "name": "Adrian Cole #1",
+        "type": "person",
+        "attributes": {
+          "title": "Owner/CEO",
+          "organization": "Pella Windows and Doors",
+          "location": "Denver/Colorado/Utah",
+          "experience_years": 26,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "adrian_cole_2",
+        "name": "Adrian Cole #2",
+        "type": "person",
+        "attributes": {
+          "title": "Programme Manager",
+          "organization": "Digital Aviation Research & Technology Centre (DARTeC), Cranfield University",
+          "location": "Cranfield, UK",
+          "experience_years": 1,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "adrian_cole_3",
+        "name": "Adrian Cole #3",
+        "type": "person",
+        "attributes": {
+          "title": "Independent Arbitrator/Mediator",
+          "organization": "Formerly King & Spalding",
+          "location": "Middle East",
+          "experience_years": 2,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "adrian_cole_4",
+        "name": "Adrian Cole #4",
+        "type": "person",
+        "attributes": {
+          "title": "Technology Executive",
+          "organization": "LookSmart, Sausage Software, Microsoft bCentral",
+          "location": "Unknown",
+          "experience_years": null,
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "adrian_cole_5",
+        "name": "Adrian Cole #5",
+        "type": "person",
+        "attributes": {
+          "title": "Founder",
+          "organization": "Antares Capital",
+          "location": "Unknown",
+          "experience_years": null,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "david_c_cole",
+        "name": "David C. Cole",
+        "type": "person",
+        "attributes": {
+          "title": "Chairman/Interim CEO",
+          "organization": "Cloudera Inc.",
+          "location": "Unknown",
+          "experience_years": 0.5,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "caroline_ellison",
+        "name": "Caroline Ellison",
+        "type": "person",
+        "attributes": {
+          "title": "N/A",
+          "organization": "N/A",
+          "location": "N/A",
+          "experience_years": 0,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "sam_bankman_fried",
+        "name": "Sam Bankman-Fried",
+        "type": "person",
+        "attributes": {
+          "title": "N/A",
+          "organization": "N/A",
+          "location": "N/A",
+          "experience_years": 0,
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "pella_corporation",
+        "name": "Pella Corporation/Pella Windows and Doors",
+        "type": "organization",
+        "attributes": {
+          "description": "Manufacturing and distribution of windows and doors",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "cranfield_university",
+        "name": "Cranfield University",
+        "type": "organization",
+        "attributes": {
+          "description": "Higher education institution focusing on technology and management",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "king_spalding",
+        "name": "King & Spalding",
+        "type": "organization",
+        "attributes": {
+          "description": "International law firm",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "looksmart",
+        "name": "LookSmart",
+        "type": "organization",
+        "attributes": {
+          "description": "American search advertising and technology company, founded 1995 as Homebase",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "sausage_software",
+        "name": "Sausage Software",
+        "type": "organization",
+        "attributes": {
+          "description": "Australian software company funded 1995 by Steve Outtrim, creator of HotDog web authoring tool",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "microsoft_bcentral",
+        "name": "Microsoft bCentral",
+        "type": "organization",
+        "attributes": {
+          "description": "Small business portal by Microsoft",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "antares_capital",
+        "name": "Antares Capital",
+        "type": "organization",
+        "attributes": {
+          "description": "Alternative asset manager with ~$80B AUM as of December 2024",
+          "mention_count": 2
+        }
+      },
+      {
+        "id": "blumberg_capital",
+        "name": "Blumberg Capital",
+        "type": "organization",
+        "attributes": {
+          "description": "San Francisco venture capital firm",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "datahug",
+        "name": "Datahug",
+        "type": "organization",
+        "attributes": {
+          "description": "Early-stage technology company",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "fieldaware",
+        "name": "Fieldaware",
+        "type": "organization",
+        "attributes": {
+          "description": "Early-stage technology company",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "voiceblasts",
+        "name": "Voiceblasts",
+        "type": "organization",
+        "attributes": {
+          "description": "UI/UX design, marketing, and engineering company, founded and led by Cole",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "university_of_cape_town",
+        "name": "University of Cape Town",
+        "type": "organization",
+        "attributes": {
+          "description": "South African university, Cole's alma mater (Electro-Mechanical Engineering)",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "ef_hutton",
+        "name": "E.F. Hutton & Company",
+        "type": "organization",
+        "attributes": {
+          "description": "Financial services firm",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "bnp_paribas",
+        "name": "BNP Paribas",
+        "type": "organization",
+        "attributes": {
+          "description": "International financial services company",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "merrill_lynch",
+        "name": "Merrill Lynch & Co.",
+        "type": "organization",
+        "attributes": {
+          "description": "Financial management company",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "atlantic_bridge_ventures",
+        "name": "Atlantic Bridge Ventures",
+        "type": "organization",
+        "attributes": {
+          "description": "Venture capital fund",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "global_disruption_fund",
+        "name": "Global Disruption Fund",
+        "type": "organization",
+        "attributes": {
+          "description": "Technology investment fund",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "french_american_foundation",
+        "name": "French-American Foundation",
+        "type": "organization",
+        "attributes": {
+          "description": "Non-profit organization",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "cnytrust",
+        "name": "CNYTrust",
+        "type": "organization",
+        "attributes": {
+          "description": "Charity for rural China education",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "endeavour",
+        "name": "Endeavour",
+        "type": "organization",
+        "attributes": {
+          "description": "Mentorship organization",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "founders_institute",
+        "name": "Founders Institute",
+        "type": "organization",
+        "attributes": {
+          "description": "Global startup accelerator",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "antler",
+        "name": "Antler",
+        "type": "organization",
+        "attributes": {
+          "description": "Global venture capital firm",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "entrepreneurs_organisation",
+        "name": "Entrepreneurs Organisation",
+        "type": "organization",
+        "attributes": {
+          "description": "Business network for entrepreneurs",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "young_presidents_organisation",
+        "name": "Young Presidents Organisation",
+        "type": "organization",
+        "attributes": {
+          "description": "Global community of young business leaders",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "cloudera_inc",
+        "name": "Cloudera, Inc.",
+        "type": "organization",
+        "attributes": {
+          "description": "Enterprise data cloud company",
+          "mention_count": 1
+        }
+      },
+      {
+        "id": "accenture_plc",
+        "name": "Accenture plc",
+        "type": "organization",
+        "attributes": {
+          "description": "Professional services company",
+          "mention_count": 1
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "adrian_cole_1",
+        "target": "pella_corporation",
+        "relationship": "owns",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_2",
+        "target": "cranfield_university",
+        "relationship": "employed_at",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_2",
+        "target": "cranfield_university",
+        "relationship": "employed_at",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_4",
+        "target": "looksmart",
+        "relationship": "worked_for",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_4",
+        "target": "sausage_software",
+        "relationship": "worked_for",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_4",
+        "target": "microsoft_bcentral",
+        "relationship": "worked_for",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "adrian_cole_5",
+        "target": "antares_capital",
+        "relationship": "founded",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "david_c_cole",
+        "target": "cloudera_inc",
+        "relationship": "ceo_of",
+        "confidence": 0.8,
+        "attributes": {}
+      },
+      {
+        "source": "voiceblasts",
+        "target": "adrian_cole_4",
+        "relationship": "founded_and_led_by",
+        "confidence": 0.85,
+        "attributes": {}
+      },
+      {
+        "source": "university_of_cape_town",
+        "target": "adrian_cole_4",
+        "relationship": "alma_mater_of",
+        "confidence": 0.95,
+        "attributes": {}
+      },
+      {
+        "source": "caroline_ellison",
+        "target": "sam_bankman_fried",
+        "relationship": "associated_with",
+        "confidence": 0.9,
+        "attributes": {}
+      },
+      {
+        "source": "king_spalding",
+        "target": "adrian_cole_3",
+        "relationship": "employed_at",
+        "confidence": 0.7,
+        "attributes": {}
+      },
+      {
+        "source": "antares_capital",
+        "target": "blumberg_capital",
+        "relationship": "partnered_with",
+        "confidence": 0.6,
+        "attributes": {}
+      },
+      {
+        "source": "merrill_lynch",
+        "target": "adrian_cole_5",
+        "relationship": "worked_with",
+        "confidence": 0.55,
+        "attributes": {}
+      },
+      {
+        "source": "bnf_paribas",
+        "target": "adrian_cole_5",
+        "relationship": "worked_with",
+        "confidence": 0.55,
+        "attributes": {}
+      }
+    ]
+  }
+}
