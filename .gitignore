@@ -23,9 +23,7 @@ build/
 *.swo
 .DS_Store
 
-# Logs and Reports
-logs/
-reports/
+# Logs
 *.log
 
 # Testing
